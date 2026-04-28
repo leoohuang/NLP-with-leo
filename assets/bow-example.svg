@@ -1,0 +1,23 @@
+<svg width="1100" height="420" viewBox="0 0 1100 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Bag of Words example</title>
+  <desc id="desc">Two Chinese sentences are converted into word frequency vectors.</desc>
+  <rect width="1100" height="420" rx="28" fill="#FFFFFF"/>
+  <g font-family="Arial, 'PingFang SC', sans-serif">
+    <text x="54" y="62" font-size="30" font-weight="800" fill="#111827">词袋模型：只数词频，不看语序</text>
+    <text x="54" y="100" font-size="18" fill="#64748B">先建立词典，再把每句话变成同一长度的数字向量。</text>
+
+    <rect x="70" y="150" width="300" height="190" rx="20" fill="#EFF6FF" stroke="#BFDBFE"/>
+    <text x="100" y="194" font-size="22" font-weight="800" fill="#1D4ED8">句子</text>
+    <text x="100" y="238" font-size="20" fill="#0F172A">苹果 好吃</text>
+    <text x="100" y="282" font-size="20" fill="#0F172A">不吃 苹果 讨厌 苹果</text>
+
+    <rect x="430" y="150" width="250" height="190" rx="20" fill="#F8FAFC" stroke="#CBD5E1"/>
+    <text x="460" y="194" font-size="22" font-weight="800" fill="#0F172A">词典</text>
+    <text x="460" y="238" font-size="20" fill="#334155">[苹果, 好吃, 讨厌, 吃]</text>
+
+    <rect x="740" y="150" width="290" height="190" rx="20" fill="#F0FDF4" stroke="#BBF7D0"/>
+    <text x="770" y="194" font-size="22" font-weight="800" fill="#15803D">向量</text>
+    <text x="770" y="238" font-size="20" fill="#0F172A">[1, 1, 0, 0]</text>
+    <text x="770" y="282" font-size="20" fill="#0F172A">[2, 0, 1, 1]</text>
+  </g>
+</svg>

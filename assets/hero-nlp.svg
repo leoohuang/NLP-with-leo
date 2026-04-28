@@ -1,0 +1,26 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">跟天 jiang 一起学 NLP</title>
+  <desc id="desc">A clean course banner for an NLP learning repository.</desc>
+  <rect width="1200" height="420" rx="32" fill="#111827"/>
+  <path d="M0 316C156 260 288 252 426 292C604 344 732 410 942 332C1054 290 1134 286 1200 300V420H0V316Z" fill="#2563EB" opacity=".28"/>
+  <path d="M0 98C136 142 246 126 358 76C542 -8 708 10 850 82C982 148 1092 148 1200 104V0H0V98Z" fill="#14B8A6" opacity=".18"/>
+  <circle cx="1000" cy="112" r="58" fill="#F59E0B" opacity=".9"/>
+  <circle cx="1000" cy="112" r="82" stroke="#FDE68A" stroke-width="2" opacity=".45"/>
+  <g transform="translate(760 190)">
+    <rect x="0" y="0" width="288" height="120" rx="18" fill="#F9FAFB"/>
+    <rect x="28" y="32" width="74" height="18" rx="9" fill="#111827"/>
+    <rect x="28" y="70" width="178" height="14" rx="7" fill="#CBD5E1"/>
+    <circle cx="238" cy="60" r="28" fill="#2563EB"/>
+    <path d="M228 61L237 70L251 48" stroke="white" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g transform="translate(120 90)">
+    <text x="0" y="58" fill="#F9FAFB" font-family="Arial, 'PingFang SC', sans-serif" font-size="48" font-weight="800">跟天 jiang 一起学 NLP</text>
+    <text x="0" y="112" fill="#D1D5DB" font-family="Arial, 'PingFang SC', sans-serif" font-size="24">从朴素贝叶斯开始，把自然语言处理讲清楚、跑起来、改得动。</text>
+    <g transform="translate(0 168)">
+      <rect width="156" height="42" rx="21" fill="#F9FAFB"/>
+      <text x="24" y="28" fill="#111827" font-family="Arial, 'PingFang SC', sans-serif" font-size="17" font-weight="700">Lecture 01</text>
+      <rect x="176" width="194" height="42" rx="21" fill="#1F2937" stroke="#374151"/>
+      <text x="202" y="28" fill="#E5E7EB" font-family="Arial, 'PingFang SC', sans-serif" font-size="17">Naive Bayes</text>
+    </g>
+  </g>
+</svg>
